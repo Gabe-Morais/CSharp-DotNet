@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\bin\Debug\net6.0\VariaveisTiposDados.exe
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\bin\Debug\net6.0\VariaveisTiposDados.deps.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\bin\Debug\net6.0\VariaveisTiposDados.runtimeconfig.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\bin\Debug\net6.0\VariaveisTiposDados.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\bin\Debug\net6.0\VariaveisTiposDados.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\refint\VariaveisTiposDados.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\VariaveisTiposDados.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\VariaveisTiposDados\obj\Debug\net6.0\ref\VariaveisTiposDados.dll

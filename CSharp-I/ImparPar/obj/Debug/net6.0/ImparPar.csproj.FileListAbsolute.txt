@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\bin\Debug\net6.0\ImparPar.exe
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\bin\Debug\net6.0\ImparPar.deps.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\bin\Debug\net6.0\ImparPar.runtimeconfig.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\bin\Debug\net6.0\ImparPar.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\bin\Debug\net6.0\ImparPar.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\refint\ImparPar.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ImparPar.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ImparPar\obj\Debug\net6.0\ref\ImparPar.dll

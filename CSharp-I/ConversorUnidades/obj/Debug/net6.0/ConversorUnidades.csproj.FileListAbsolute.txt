@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.exe
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.deps.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.runtimeconfig.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\refint\ConversorUnidades.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ConversorUnidades\obj\Debug\net6.0\ref\ConversorUnidades.dll

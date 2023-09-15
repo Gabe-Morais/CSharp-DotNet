@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\bin\Debug\net6.0\ListaTarefas.exe
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\bin\Debug\net6.0\ListaTarefas.deps.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\bin\Debug\net6.0\ListaTarefas.runtimeconfig.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\bin\Debug\net6.0\ListaTarefas.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\bin\Debug\net6.0\ListaTarefas.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\refint\ListaTarefas.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ListaTarefas.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\ListaTarefas\obj\Debug\net6.0\ref\ListaTarefas.dll

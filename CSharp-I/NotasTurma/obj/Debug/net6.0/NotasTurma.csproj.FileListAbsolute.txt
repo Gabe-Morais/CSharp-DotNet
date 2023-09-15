@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\bin\Debug\net6.0\NotasTurma.exe
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\bin\Debug\net6.0\NotasTurma.deps.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\bin\Debug\net6.0\NotasTurma.runtimeconfig.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\bin\Debug\net6.0\NotasTurma.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\bin\Debug\net6.0\NotasTurma.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\refint\NotasTurma.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\NotasTurma.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\NotasTurma\obj\Debug\net6.0\ref\NotasTurma.dll

@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\bin\Debug\net6.0\EstruturasDeControle.exe
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\bin\Debug\net6.0\EstruturasDeControle.deps.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\bin\Debug\net6.0\EstruturasDeControle.runtimeconfig.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\bin\Debug\net6.0\EstruturasDeControle.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\bin\Debug\net6.0\EstruturasDeControle.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\refint\EstruturasDeControle.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\EstruturasDeControle.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\EstruturasDeControle\obj\Debug\net6.0\ref\EstruturasDeControle.dll

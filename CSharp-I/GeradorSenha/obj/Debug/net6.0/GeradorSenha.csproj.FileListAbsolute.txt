@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\bin\Debug\net6.0\GeradorSenha.exe
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\bin\Debug\net6.0\GeradorSenha.deps.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\bin\Debug\net6.0\GeradorSenha.runtimeconfig.json
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\bin\Debug\net6.0\GeradorSenha.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\bin\Debug\net6.0\GeradorSenha.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.csproj.AssemblyReference.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\refint\GeradorSenha.dll
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.pdb
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\GeradorSenha.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Github\CSharp-Study\GeradorSenha\obj\Debug\net6.0\ref\GeradorSenha.dll
